@@ -1,5 +1,5 @@
 <h2>Codebook.MD</h2>
-<h3>The variables in the AnalyzedActivity.txt file (excepting participant and activity) are all numeric values representing the average of the each type of data for the participant and activity.</h3>
+<h3>The variables in the AnalyzedActivity.txt file (excepting participant and activity) are all numeric values representing the average of each type of data for the participant and activity.</h3>
 <ol>
 <li>participant - Numeric 1-30, the ID of the study participant</li>
 <li>activity  -  The type of activity the participant was engaged in when the measurement was taken.  
