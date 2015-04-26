@@ -62,32 +62,32 @@
 <li>freqBodyAccelJerkMeanFreqX  - Fast Fourier Transform of Body Linear Acceleration Jerk Signal mean frequency through X-coordinate </li>
 <li>freqBodyAccelJerkMeanFreqY  - Fast Fourier Transform of Body Linear Acceleration Jerk Signal mean frequency through Y-coordinate </li>
 <li>freqBodyAccelJerkMeanFreqZ  - Fast Fourier Transform of Body Linear Acceleration Jerk Signal mean frequency through Z-coordinate </li>
-<li>freqBodyGyroMeanX"</li>
-<li>freqBodyGyroMeanY"</li>
-<li>freqBodyGyroMeanZ"</li>
-<li>freqBodyGyroStdDevX"</li>
-<li>freqBodyGyroStdDevY"</li>
-<li>freqBodyGyroStdDevZ"</li>
-<li>freqBodyGyroMeanFreqX"</li>
-<li>freqBodyGyroMeanFreqY"</li>
-<li>freqBodyGyroMeanFreqZ"</li>
-<li>freqBodyAccelMagMean"</li>
-<li>freqBodyAccelMagStdDev"</li>
-<li>freqBodyAccelMagMeanFreq"</li>
-<li>fBodyBodyAccJerkMagMean"</li>
-<li>fBodyBodyAccJerkMagStdDev"</li>
-<li>fBodyBodyAccJerkMagMeanFreq"</li>
-<li>fBodyBodyGyroMagMean"</li>
-<li>fBodyBodyGyroMagStdDev"</li>
-<li>fBodyBodyGyroMagMeanFreq"</li>
-<li>fBodyBodyGyroJerkMagMean"</li>
-<li>fBodyBodyGyroJerkMagStdDev"</li>
-<li>fBodyBodyGyroJerkMagMeanFreq"</li>
-<li>angletimeBodyAccelMeanGravity"</li>
-<li>angletimeBodyAccelJerkMeanGravityMean"</li>
-<li>angletimeBodyGyroMeanGravityMean"</li>
-<li>angletimeBodyGyroJerkMeanGravityMean"</li>
-<li>angleXGravityMean"</li>
-<li>angleYGravityMean"</li>
-<li>angleZGravityMean"</li>
+<li>freqBodyGyroMeanX  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional  Angular Angular Velocity over time through X-coordinate  </li>
+<li>freqBodyGyroMeanY  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional  Angular Angular Velocity over time through X-coordinate </li>
+<li>freqBodyGyroMeanZ  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional  Angular Angular Velocity over time through X-coordinate </li>
+<li>freqBodyGyroStdDevX  - Fast Fourier Transform of standard deviation of the Magnitude of the 3-Dimensional  Angular Angular Velocity over time through X-coordinate  </li>
+<li>freqBodyGyroStdDevY  - Fast Fourier Transform of standard deviation of the Magnitude of the 3-Dimensional  Angular Angular Velocity over time through Y-coordinate  </li>
+<li>freqBodyGyroStdDevZ  - Fast Fourier Transform of standard deviation of the Magnitude of the 3-Dimensional  Angular Angular Velocity over time through Z-coordinate  </li>
+<li>freqBodyGyroMeanFreqX  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional  Angular Angular Velocity frequencey through X-coordinate  </li>
+<li>freqBodyGyroMeanFreqY  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional  Angular Angular Velocity frequencey through Y-coordinate  </li>
+<li>freqBodyGyroMeanFreqZ  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional  Angular Angular Velocity frequencey through Z-coordinate  </li>
+<li>freqBodyAccelMagMean  - Fast Fourier Transform of Mean of the 3-Dimensional Body Acceleration Magnitude over time </li>
+<li>freqBodyAccelMagStdDev  - Fast Fourier Transform of standard deviation of the 3-Dimensional Body Acceleration Magnitude over time </li>
+<li>freqBodyAccelMagMeanFreq  - Fast Fourier Transform of Mean frequency of the 3-Dimensional Body Acceleration Magnitude </li>
+<li>fBodyBodyAccJerkMagMean  - Fast Fourier Transform of Mean Magnitude of Body Linear Acceleration Jerk Signal over time </li>
+<li>fBodyBodyAccJerkMagStdDev  - Fast Fourier Transform of standard deviation Magnitude of Body Linear Acceleration Jerk Signal over time</li>
+<li>fBodyBodyAccJerkMagMeanFreq  - Fast Fourier Transform of Mean Magnitude frequency of Body Linear Acceleration Jerk Signal </li>
+<li>fBodyBodyGyroMagMean  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional Angular Velocity over time </li>
+<li>fBodyBodyGyroMagStdDev  - Fast Fourier Transform of standard deviation Magnitude of the 3-Dimensional Angular Velocity over time</li>
+<li>fBodyBodyGyroMagMeanFreq  - Fast Fourier Transform of Mean Magnitude of the 3-Dimensional Angular Velocity frequency</li>
+<li>fBodyBodyGyroJerkMagMean  - Fast Fourier Transform of Mean Magnitude of Body Linear Acceleration Jerk Signal over time </li>
+<li>fBodyBodyGyroJerkMagStdDev  - Fast Fourier Transform of standard deviation Magnitude of Body Linear Acceleration Jerk Signal over time</li>
+<li>fBodyBodyGyroJerkMagMeanFreq  - Fast Fourier Transform of Mean Magnitude of Body Linear Acceleration Jerk Signal frequencey</li>
+<li>angletimeBodyAccelMeanGravity  - Mean Linear Acceleration angle over time</li>
+<li>angletimeBodyAccelJerkMeanGravityMean  - Mean Linear Acceleration Jerk Signal angle over time</li>
+<li>angletimeBodyGyroMeanGravityMean  - Mean 3-Dimensional Angular Velocity angle over time</li>
+<li>angletimeBodyGyroJerkMeanGravityMean  - Mean 3-Dimensional Angular Velocity Jerk Signal angle over time</li>
+<li>angleXGravityMean  - Mean Gravity Acceleration angle through X-coordinate </li>
+<li>angleYGravityMean  - Mean Gravity Acceleration angle through Y-coordinate </li>
+<li>angleZGravityMean  - Mean Gravity Acceleration angle through Z-coordinate </li>
 </ol>
