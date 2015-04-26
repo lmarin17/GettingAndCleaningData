@@ -1,20 +1,21 @@
 <h2>Codebook.MD</h2>
 
 <ol>
-<li>participant</li>
-<li>activity</li>
+<li>participant - Numeric 1-30, the ID of the study participant</li>
+<li>activity  -  The type of activity the participant was engaged in when the measurement was taken.  
+              -  Activity values:  WALKING; WALKING_UPSTAIRS; WALKING_DOWNSTAIRS; SITTING; STANDING; LAYING</li>
 <li>timeBodyAccelMeanX  - Mean Body Acceleration over time through X-coordinate </li>
 <li>timeBodyAccelMeanY  - Mean Body Acceleration over time through Y-coordinate </li>
 <li>timeBodyAccelMeanZ  - Mean Body Acceleration over time through Z-coordinate </li>
-<li>timeBodyAccelStdDevX</li>
-<li>timeBodyAccelStdDevY</li>
-<li>timeBodyAccelStdDevZ</li>
-<li>timeGravityAccelMeanX</li>
-<li>timeGravityAccelMeanY</li>
-<li>timeGravityAccelMeanZ</li>
-<li>timeGravityAccelStdDevX"</li>
-<li>timeGravityAccelStdDevY"</li>
-<li>timeGravityAccelStdDevZ"</li>
+<li>timeBodyAccelStdDevX  - Standard deviation of Body Acceleration over time through X-coordinate </li>
+<li>timeBodyAccelStdDevY  - Standard deviation of Body Acceleration over time through Y-coordinate </li>
+<li>timeBodyAccelStdDevZ  - Standard deviation of Body Acceleration over time through Z-coordinate </li>
+<li>timeGravityAccelMeanX  - Mean Gravity Acceleration over time through X-coordinate </li>
+<li>timeGravityAccelMeanY  - Mean Gravity Acceleration over time through Y-coordinate </li>
+<li>timeGravityAccelMeanZ  - Mean Gravity Acceleration over time through Z-coordinate </li>
+<li>timeGravityAccelStdDevX  - Standard deviation of Gravity Acceleration over time through X-coordinate </li>
+<li>timeGravityAccelStdDevY  - Standard deviation of Gravity Acceleration over time through Y-coordinate </li>
+<li>timeGravityAccelStdDevZ  - Standard deviation of Gravity Acceleration over time through Z-coordinate </li>
 <li>timeBodyAccelJerkMeanX"</li>
 <li>timeBodyAccelJerkMeanY"</li>
 <li>timeBodyAccelJerkMeanZ"</li>
